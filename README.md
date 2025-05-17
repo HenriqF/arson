@@ -17,4 +17,5 @@ Para editar os parametros de geração, é necessário alterar as variaveis dent
   std::string bgchar = ". "; // "Textura" do fundo.
 ```
 
-Ao executar o código, um arquivo de texto "mapa.txt" será criado com o conteúdo.
+Ao executar o código, um arquivo de texto "mapa.txt" será criado com o conteúdo.<br><br><br>
+![image](https://github.com/user-attachments/assets/b223611d-a984-4d26-98f6-b2c159ed518f)
